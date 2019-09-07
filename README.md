@@ -20,3 +20,4 @@ make changes to presentation.md, should open and live reload in browser
 
 yayyy
 
+![](example.gif)
