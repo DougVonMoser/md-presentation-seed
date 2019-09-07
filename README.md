@@ -1,12 +1,22 @@
-## install pandoc
-## install chokidar
-## install live-server
+# Markdown Slideshow Presentation Seed
 
+## install stuff
 
-``` 
-./watch
+###  pandoc
+
+https://pandoc.org/installing.html
+
+### live-server and chokidar globally
+
+`npm i -g live-server chokidar`
+
+## Then run `watch.sh`
+
+```
+./watch.sh
 ```
 
-## make changes to presentation.md, should open and live reload in browser
+make changes to presentation.md, should open and live reload in browser
 
-## yayyy
+yayyy
+
