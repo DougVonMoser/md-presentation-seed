@@ -1,21 +1,22 @@
 %Something!!!!
 %by doug
 %pandoc -s --webtex -i -t slidy something.txt -o example2.html
-# ha. kinda works?
+# ha. nah totes works!
 
-flash of unstyle content. but like. this is dope.
+
+Oh em gee i can add code!
 ```haskell
 newtype Person = Person String deriving (Eq,Show)
 ```
-in the inbetween
+and add comments in between
 
-```haskell
-newtype Person = Person String deriving (Eq,Show)
+```elixir
+[head | tail] = List.duplicate(18, "joe harrow")
 ```
- i can add stuff here though 
+ i can add stuff here too 
 
-```haskell
-newtype Person = Person String deriving (Eq,Show)
+```javascript
+const myFunky = (argy1, argy2) => "totes ignoring arguments"
 ```
 # lets dive into this
 
